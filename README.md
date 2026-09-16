@@ -27,7 +27,9 @@ Actualmente busco oportunidades de prácticas donde pueda aplicar mis conocimien
 ### 🚀 Proyectos Destacados
 
 - **[Lutra](https://github.com/alvaroRosa23/TFG_Lutra):** Aplicación de salud mental gamificada. Implementación de registro de usuarios, gestión de estado emocional y mecánicas interactivas diarias. *(TFG - En desarrollo)*
-- **[The Living Garden](https://github.com/rippleGames25/TheLivingGarden):** Juego de estrategia y gestión de recursos. 2º puesto en premios universitarios. 
+- **[The Living Garden](https://github.com/rippleGames25/TheLivingGarden):** Juego de estrategia y gestión de recursos. 2º puesto en premios universitarios.
+- **[The Living Garden Pocket](https://github.com/laurimans/Garden-Mobile):** Spin-off para dispositivos móviles. Desarrollo de un sistema de físicas que utiliza el hardware nativo del teléfono (giroscopio/acelerómetro) como mecánica principal.
+- **[Hotline Miauami (Juegos en Red)](https://github.com/antonioMachorro/JuegosEnRed_Equipo07):** Juego multijugador local de ritmo rápido optimizado para navegadores web. Implementación de lógicas de servidor, controladores y detección de colisiones.
 
 ### 📊 Mis Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alvaroRosa23&show_icons=true&theme=tokyonight&hide_border=true)
@@ -35,4 +37,4 @@ Actualmente busco oportunidades de prácticas donde pueda aplicar mis conocimien
 ### 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-rosa-pedraza-716633420/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarorosap23@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alvarorosap23@gmail.com)
