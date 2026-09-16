@@ -1,4 +1,4 @@
-# Hola, soy Álvaro Rosa Pedraza 👋
+# ¡Hola! Soy Álvaro Rosa Pedraza
 
 ### 👨‍💻 Estudiante de Desarrollo de Videojuegos
 
