@@ -24,6 +24,12 @@ Actualmente busco oportunidades de prácticas donde pueda aplicar mis conocimien
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Diseño & Multimedia:**
+![3ds Max](https://img.shields.io/badge/3ds_Max-135CAC?style=for-the-badge&logo=autodesk&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-F6821F?style=for-the-badge&logo=flstudio&logoColor=black)
+
 ### 🚀 Proyectos Destacados
 
 - **[The Living Garden](https://github.com/rippleGames25/TheLivingGarden):** Juego de estrategia y gestión de recursos. 2º puesto en premios universitarios de la Universidad Rey Juan Carlos.
