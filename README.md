@@ -34,5 +34,5 @@ Actualmente busco oportunidades de prácticas donde pueda aplicar mis conocimien
 
 ### 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PON_AQUI_TU_ENLACE_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-rosa-pedraza-716633420/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarorosap23@gmail.com)
