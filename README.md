@@ -1,8 +1,8 @@
 # ¡Hola! Soy Álvaro Rosa Pedraza
 
-### 👨‍💻 Estudiante de Desarrollo de Videojuegos
+### 👨‍💻 Estudiante de Desarrollo de Videojuegos | Junior Software Developer
 
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante de último año altamente motivado por la **arquitectura de software y la creación de productos interactivos**. 
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante de último año altamente motivado por la **arquitectura de software, gestión de datos y la creación de productos interactivos**. 
 
 Actualmente busco oportunidades de prácticas donde pueda aplicar mis conocimientos técnicos y aportar valor en un entorno real. Combino mi base técnica con fuertes habilidades de comunicación y resolución de problemas adquiridas tanto en trabajos universitarios como en mis experiencias laborales internacionales.
 
