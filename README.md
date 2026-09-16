@@ -31,9 +31,6 @@ Actualmente busco oportunidades de prácticas donde pueda aplicar mis conocimien
 - **[Hotline Miauami (Juegos en Red)](https://github.com/antonioMachorro/JuegosEnRed_Equipo07):** Juego multijugador local de ritmo rápido optimizado para navegadores web. Implementación de lógicas de servidor, controladores y detección de colisiones.
 - **[Lutra](https://github.com/alvaroRosa23/TFG_Lutra):** Aplicación de salud mental gamificada. Implementación de registro de usuarios, gestión de estado emocional y mecánicas interactivas diarias. *(TFG - En desarrollo)*
 
-### 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alvaroRosa23&show_icons=true&theme=tokyonight&hide_border=true)
-
 ### 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-rosa-pedraza-716633420/)
